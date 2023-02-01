@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/fundo.png");
+    background-size: cover;
+}
+
+.title-page {
+    color: rgb(71, 203, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 20px;
+    
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
